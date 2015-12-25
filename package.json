@@ -1,7 +1,7 @@
 {
   "name": "take-last",
   "description": "Returns a new shallow copy of the last n elements taken from the end of the given array. When list.length < n the list returned contain list.length elements.",
-  "version": "0.1.2",
+  "version": "0.0.0",
   "author": "Wil Moore III <wil.moore@wilmoore.com>",
   "bugs": {
     "url": "https://github.com/wilmoore/take-last.js/issues"

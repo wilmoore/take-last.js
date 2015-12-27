@@ -21,10 +21,13 @@
   },
   "homepage": "https://github.com/wilmoore/take-last.js",
   "keywords": [
+    "_.takeRight",
     "array",
+    "array-last",
     "auto-curried",
     "copy",
     "last",
+    "R.takeLast",
     "slice"
   ],
   "license": "MIT",

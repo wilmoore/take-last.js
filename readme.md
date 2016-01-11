@@ -43,8 +43,8 @@ list.map(last(1))
 
 ###### arguments
 
- - `n (number)`.
- - `last (array)`.
+ - `n (number)` Number of elements to take from the end of the list.
+ - `list (array)` Array to extract elements from.
 
 ###### returns
 
